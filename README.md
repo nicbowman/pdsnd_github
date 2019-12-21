@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+Created on 21 December 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project - Nic Bowman
 
 ### Description
-Describe what your project is about and what it does
+Programmatic analysis of bikeshare information across Chicago, New York and Washnington
 
 ### Files used
 Include the files used
