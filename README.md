@@ -2,7 +2,7 @@
 Created on 21 December 2019
 
 ### Project Title
-Bikeshare Project - Nic Bowman
+Bikeshare Project
 
 ### Description
 Programmatic analysis of bikeshare information across Chicago, New York and Washington
