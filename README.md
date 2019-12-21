@@ -5,7 +5,7 @@ Created on 21 December 2019
 Bikeshare Project - Nic Bowman
 
 ### Description
-Programmatic analysis of bikeshare information across Chicago, New York and Washnington
+Programmatic analysis of bikeshare information across Chicago, New York and Washington
 
 ### Files used
 Include the files used
